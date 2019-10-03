@@ -7,3 +7,7 @@ Study of machine learning algorithm based on online courses conducted by Andrew 
 
 ## Machine Learning Project
 * Housing - based on A.Geron's book: 'Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow
+
+
+## Cheat-Sheet in Machine Learning
+* Matrices - a collection of Python codes to create arrays/matrices, shape manipulation, matrix operation, etc.
