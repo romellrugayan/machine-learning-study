@@ -5,6 +5,8 @@ Study of machine learning algorithm (some of them were based from coursera's onl
 * Polynomial Linear Regression
 * Logistic Regression
 * Random Forest Regression
+* Logistic Regression (Softmax for multi classification)
+* Linear Regression Model (Ridge / Lasso / Elastic Net)
 
 ## Machine Learning Project
 * Housing - based on A.Geron's book: 'Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow
